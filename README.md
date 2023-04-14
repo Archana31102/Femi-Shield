@@ -28,4 +28,4 @@ When the user senses in danger, this app can be activated by shaking the device.
 
 *GitHub* 🔗 :
 
-https://github.com/Archana31102/Gateway-integration
+https://github.com/Archana31102/Femi-Shield
