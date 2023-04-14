@@ -1,5 +1,5 @@
-# Femi-Shield
-An app specially made for women which ensures the safety . It acts like a life-saver during critical times!!
+# Femi-Shield :shield:		
+> An app specially made for women which ensures the safety . It acts like a life-saver during critical times!!
 When the user senses in danger, this app can be activated by shaking the device. This application alerts the user’s location to the registered contacts  in the form of message.
 
 :round_pushpin: **TECH STACK**    
